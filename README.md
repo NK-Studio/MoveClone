@@ -1,5 +1,7 @@
 # MoveClone
 
+### Download -> [UnityPackage](https://github.com/NK-Studio/MoveClone/releases) 다운로드
+
 ### 미리보기
 ![미리보기](preview.gif)   
 
