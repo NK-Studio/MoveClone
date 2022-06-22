@@ -1,7 +1,7 @@
 # MoveClone
 
 ### Download -> [UnityPackage](https://github.com/NK-Studio/MoveClone/releases) 
-### 최소 유니티 버전 2020.1.x or higher
+### 권장 유니티 버전 2020.1.x or higher
 
 ### 미리보기
 https://user-images.githubusercontent.com/53283888/174933528-686258ef-8570-4d25-89b5-c45392352ca5.mp4
